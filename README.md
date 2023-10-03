@@ -1,4 +1,4 @@
-# Airbnb Clone Versions
+# Airbnb Clone Versions 📯
 
 This repository contains different versions of the Airbnb Clone project, showcasing progressive development and various features.
 
@@ -6,7 +6,7 @@ This repository contains different versions of the Airbnb Clone project, showcas
 
 The Airbnb Clone project is a web application that replicates the functionality of Airbnb. It is developed as a learning project at ALX Africa to explore different web development concepts and technologies.
 
-## Version 1: The Console
+# Version 1: The Console
 
 [GitHub Repository](https://github.com/Laban254/AirBnB_clone)
 
@@ -19,7 +19,7 @@ In Version 1, key features include:
 - **Object Deletion:** The CLI allows for the removal of objects, supporting data cleanup and maintenance.
 
 ### Web static
-### Description
+#### Description
 This phase of the project focuses on the development of static web pages using HTML and CSS. The `web_static` folder contains HTML files and CSS styles for the project's static pages. These static pages lay the visual groundwork for the project.
 
 The `web_static` folder structure includes:
@@ -30,19 +30,19 @@ The `web_static` folder structure includes:
 
 # Version 2: User Interface Enhancement
 
-## Overview
+### Overview
 Version 2 of the Airbnb Clone project focuses on enhancing the user interface (UI) to improve aesthetics, styling, and responsiveness. This iteration aims to provide a visually appealing and user-friendly interface while ensuring compatibility across various devices and screen sizes.
 
-## Key Enhancements
+### Key Enhancements
 - **Visual Appeal:** In this version, significant efforts are invested in refining the project's UI. CSS styling is utilized to enhance the visual appeal of the web application, creating a more attractive user experience.
 
 - **Responsiveness:** Version 2 places a strong emphasis on responsiveness. The UI is designed to adapt seamlessly to different devices and screen sizes. This responsiveness ensures an optimal viewing experience, regardless of the user's choice of device, enhancing accessibility and usability.
 
-## Relevant Links
+### Relevant Links
 - [GitHub Repository - AirBnB_clone_v2](https://github.com/Laban254/AirBnB_clone_v2)
 - ![Version 2 Screenshot](https://github.com/Laban254/AirBNB_Clone-versions/assets/64686919/fae608bd-2269-40e1-9a37-0b4f307dc5dc)
 
-## Background Context
+### Background Context
 - **BNB_ENV:** This parameter defines the running environment and can be set to "dev" or "test," with "production" planned for the future.
 
 - **HBNB_MYSQL_USER:** This is the username for MySQL, a vital component of the project.
@@ -55,13 +55,13 @@ Version 2 of the Airbnb Clone project focuses on enhancing the user interface (U
 
 - **HBNB_TYPE_STORAGE:** This parameter determines the type of storage used, with options including "file" (utilizing FileStorage) and "db" (employing DBStorage).
 
-## Database Schema
+### Database Schema
 ![AirBNB-SCHEMA](https://github.com/Laban254/AirBNB_Clone-versions/assets/64686919/f5c3581f-5a16-4869-a6d7-caad4fd35eea)
 
-## Project Context
+### Project Context
 Version 2 represents a significant step forward in the Airbnb Clone project, improving the project's UI and making it more appealing to users. The enhanced UI sets the stage for further development, creating a solid foundation for the project's future.
 
-## Deployment of Static Content
+### Deployment of Static Content
 ### Background
 The deployment of static content is a critical aspect of project development. This phase ensures that static web pages, styles, and assets are delivered efficiently to end-users. In this context, project deployment involves making the project accessible to the public, utilizing two web servers and one load balancer.
 
@@ -103,7 +103,7 @@ This version includes features such as user authentication, property management,
 
 AirBnB_clone_v4 represents the evolution of the project into a web dynamic interface. This version combines the power of a backend RESTful API (as seen in AirBnB_clone_v3) with a responsive and interactive frontend. It aims to provide users with a seamless and engaging experience when exploring and booking rental properties.
 
-## Key Features:
+### Key Features:
 - Web Dynamic Interface: An intuitive and visually appealing web interface for users to search, view, and book rental properties.
 - Integration with RESTful API: Seamlessly connects to the AirBnB_clone_v3 API to fetch property data and manage bookings.
 - User-Friendly Experience: Responsive design ensures optimal viewing on various devices and screen sizes.
