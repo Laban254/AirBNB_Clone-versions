@@ -39,3 +39,5 @@ Serving of dynamic content using JavaScript
 
 ## AirBnB_clone_v4
 [AirBnB_clone_v4](https://github.com/Laban254/AirBnB_clone_v4)
+
+[link to the postman documentation](https://documenter.getpostman.com/view/1535334/airbnbclonev3/6tc3iuA)
