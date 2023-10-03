@@ -1,12 +1,9 @@
 # AirBNB_Clone-versions
 This repo contain the links to the repo's versions for the AIR-BNB project done during my Learning at ALX-AFRICA
-![AirBNB-clone](https://github.com/Laban254/AirBNB_Clone-versions/assets/64686919/7a9d2b50-5632-4ddf-90b6-afb638638e2e)
 
 
-## AirBnB clone v1 - The console
+# AirBnB clone v1 - The console
 [AirBnB clone v1](https://github.com/Laban254/AirBnB_clone)
-
-file:///home/kibe/Downloads/hbnb_step1.png
 
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
@@ -23,15 +20,16 @@ This is the first step towards building our first full web application: the AirB
 - Update attributes of an object
 
 - Destroy an object
-  ### Web static
-  Description
+### Web static
+  ### Description
 This is one phase of the Airbnb Clone: the HTML and CSS part. The Images folder holds icons for the site (e.g. logo, bathroom icons, bedroom icons, guest icons). The Styles folder holds CSS styling files. The largest numbered style file of each category (e.g. common, footer, header, places) is most relevant to the finished product. The highlest numbered index.html file is likewise the most relevant to the finished product.
 
 [link to the repo](https://github.com/Laban254/AirBnB_clone/tree/main/web_static)
 
-## AirBnB_clone_v2
+# AirBnB_clone_v2
 [AirBnB_clone_v2](https://github.com/Laban254/AirBnB_clone_v2)
-pic version 2
+
+![hbnb_step2](https://github.com/Laban254/AirBNB_Clone-versions/assets/64686919/fae608bd-2269-40e1-9a37-0b4f307dc5dc)
 
 ### Background Context
 
@@ -42,8 +40,11 @@ pic version 2
 - HBNB_MYSQL_DB: the database name of your MySQL
 - HBNB_TYPE_STORAGE: the type of storage used. It can be “file” (using FileStorage) or db (using DBStorage
 
-  SHCEMA
-  MODELS LINK [](https://github.com/Laban254/AirBnB_clone_v2/tree/master/models)
+  ### SCHEMA
+  
+  ![AirBNB-SCHEMA](https://github.com/Laban254/AirBNB_Clone-versions/assets/64686919/f5c3581f-5a16-4869-a6d7-caad4fd35eea)
+
+[MODELS LINK](https://github.com/Laban254/AirBnB_clone_v2/tree/master/models)
 AirBnB is a complete RESTful web application, integrating file and database (MySQL) storage in a back-end API with front-end interfacing in a clone of AirBnB. The front-end is designed using HTML5/CSS3 and is served using Python Flask. The application is configured on a distributed system - two web servers and one load balancer - with Nginx and HAProxy. AirBnB is still in active development, with complete functionality set to deploy in the coming month:
 
 Complete integration of a RESTful API
@@ -62,23 +63,33 @@ In this first deployment project, you will be deploying your web_static work. Yo
 
 Before starting, please fork the repository AirBnB_clone_v2 from your partner if you don’t have it
 
-pic deploy static
+### deploy static
+![hbnb_step3-web-framework](https://github.com/Laban254/AirBNB_Clone-versions/assets/64686919/3193a290-f3d1-49e7-b68c-ef5343894c09)
+
 
 ## Web framework
 [web-flask](https://github.com/Laban254/AirBnB_clone_v2/tree/master/web_flask)
+![hbnb_step3-web-framework](https://github.com/Laban254/AirBNB_Clone-versions/assets/64686919/8cc09918-ed6b-4e03-919a-86e3e5c09b2c)
 
-web-flask otput pic
 
-## AirBnB_clone_v3
+### web-flask otput 
+![web-flask-output](https://github.com/Laban254/AirBNB_Clone-versions/assets/64686919/de68b24f-1c70-428f-847d-8877d3c9cd0a)
+
+
+# AirBnB_clone_v3
 [AirBnB_clone_v3](https://github.com/FrankieVexx/AirBnB_clone_v3)
 
-RESTful API  
-PIC [api](https://github.com/FrankieVexx/AirBnB_clone_v3/tree/master/api)
+### RESTful API  
+ [api](https://github.com/FrankieVexx/AirBnB_clone_v3/tree/master/api)
+ ![restful-API](https://github.com/Laban254/AirBNB_Clone-versions/assets/64686919/b63fb2cd-e1bf-4e78-b645-3d54f31b4bcd)
 
-## AirBnB_clone_v4
+
+# AirBnB_clone_v4
+![hbnb_step5-web-dynamic](https://github.com/Laban254/AirBNB_Clone-versions/assets/64686919/58e32eec-aebd-4b4b-bdd9-93da00566130)
+### AirBnB clone - Web dynamic
 [AirBnB_clone_v4](https://github.com/Laban254/AirBnB_clone_v4)
-file:///home/kibe/Downloads/web-dynamic-final.jpg
 
-0x06. AirBnB clone - Web dynamic
+![web-dynamic-final](https://github.com/Laban254/AirBNB_Clone-versions/assets/64686919/668a28ec-5f10-4c5b-8e38-4505ac5999ef)
+
 
 [link to the postman documentation](https://documenter.getpostman.com/view/1535334/airbnbclonev3/6tc3iuA)
