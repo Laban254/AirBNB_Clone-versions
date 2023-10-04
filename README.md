@@ -116,7 +116,7 @@ AirBnB_clone_v4 represents the evolution of the project into a web dynamic inter
 For any questions or inquiries related to these project versions, please don't hesitate to reach out:
 
 - **Email:** labanrotich6544@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/laban-rotich/)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/laban-rotich/)
 - **Portfolio:** [My Portfolio](https://labankibet.netlify.app/)
 
 
