@@ -117,6 +117,6 @@ For any questions or inquiries related to these project versions, please don't h
 
 - **Email:** labanrotich6544@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/laban-rotich/)
-- **Portfolio:** [Your Portfolio (if applicable)](https://labankibet.netlify.app/)
+- **Portfolio:** [My Portfolio](https://labankibet.netlify.app/)
 
 
